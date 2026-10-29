@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/349028731?s=400&u=06d34ce9df4dea7dc727926d1272481eb1f92614&v=4" alt="RePorted-Engine" width="150" height="150">
 </p>
 
-<h1 align="center">RePorted-Engine</h1>
+<h1 align="center">RePorted</h1>
 
 <p align="center">
   <em>Reimagining games, one line of code at a time.</em>
